@@ -1,0 +1,46 @@
+[
+    {
+    "titulo": "Oblivion (2012)",
+    "calificacion": "7.1",
+    "director": "Kevin MacLaren",
+    "actores": "Mariano Iufica, Juan Pedrito, Marginal Loren",
+    "fecha": "1May 2012",
+    "duracion": "2h 12m",
+    "img": "imagenes/uploads/mv1.jpg",
+    "descripcion": "Sin descripcion1"
+
+  },
+  {
+  "titulo": "Segunda Pelicula",
+  "calificacion": "10",
+  "director": "Kevin Tintaya",
+  "actores": "Kevin Tintaya, Alec Tintaya, Tintaya Tacuri",
+  "fecha": "13 July 2000",
+  "duracion": "Infinito",
+  "img": "imagenes/uploads/mv2.jpg",
+  "descripcion": "Sin descripcio2"
+
+},
+{
+  "titulo": "Segunda Pelicula",
+  "calificacion": "10",
+  "director": "Kevin Tintaya",
+  "actores": "Kevin Tintaya, Alec Tintaya, Tintaya Tacuri",
+  "fecha": "13 July 2000",
+  "duracion": "Infinito",
+  "img": "imagenes/uploads/mv2.jpg",
+  "descripcion": "Sin descripcio2"
+
+},
+{
+  "titulo": "Segunda Pelicula",
+  "calificacion": "10",
+  "director": "Kevin Tintaya",
+  "actores": "Kevin Tintaya, Alec Tintaya, Tintaya Tacuri",
+  "fecha": "13 July 2000",
+  "duracion": "Infinito",
+  "img": "imagenes/uploads/mv2.jpg",
+  "descripcion": "Sin descripcio2"
+
+}
+]
